@@ -1,13 +1,11 @@
-# EOC
 ---
-
 # HACK CPU & Gray Code Display System
 
 A two-part digital systems project built as part of the *Elements of Computing Systems* course at Amrita Vishwa Vidyapeetham.
 
 ---
 
-## Part A: 16-bit HACK CPU (Nand2Tetris)
+**Part A: 16-bit HACK CPU (Nand2Tetris)**
 
 Built using basic NAND gates and HDL via the Nand2Tetris platform.  
 Key modules include:
@@ -18,7 +16,7 @@ Key modules include:
 
 ---
 
-## Part B: Gray Code to 7-Segment Display
+**Part B: Gray Code to 7-Segment Display**
 
 Converts rotary encoder Gray code to readable output:
 
@@ -27,3 +25,4 @@ Converts rotary encoder Gray code to readable output:
 - Real-time position display for applications in robotics and automation
 
 ---
+Note : For more details check out this repo => https://github.com/neharmenon05/Elements_of_computing
