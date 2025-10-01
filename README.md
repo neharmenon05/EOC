@@ -1,7 +1,4 @@
 # EOC
-A two-part digital systems project built as part of the Elements of Computing Systems course
-Here’s a concise version of your GitHub README that keeps things professional and informative:
-
 ---
 
 # HACK CPU & Gray Code Display System
